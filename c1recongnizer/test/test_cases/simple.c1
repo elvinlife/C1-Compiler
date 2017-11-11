@@ -1,0 +1,7 @@
+int i = 0;
+void main()
+{
+    int i = 1;
+    int i;
+    int j;
+}

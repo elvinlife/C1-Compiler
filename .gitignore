@@ -1,0 +1,6 @@
+#Lexer ignore
+*.java
+*.class
+*.tokens
+*.pyc
+.DS_Store
