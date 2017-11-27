@@ -4,3 +4,4 @@
 *.tokens
 *.pyc
 .DS_Store
+.vscode
