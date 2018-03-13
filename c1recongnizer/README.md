@@ -42,4 +42,13 @@ After that, each time you have any modification, simply do
 make -j4
 ```
 
+## Run
+
+After the compilation, an executable program `c1r_test`will appear in `build` directory. This program can read the C1 source code and generate the AST in JSON format. For example:
+
+```bash
+./c1r_test ../test/test_cases/simple.c1
+```
+
+
 

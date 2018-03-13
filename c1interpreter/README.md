@@ -32,7 +32,7 @@ Compile
 
 `make -j`
 
-# Run
+## Run
 
 After the compilation, an executable program `c1i`will appear in the `build` directory. This program can compile the c1 source code file and execute it. `c1i` will output the `llvm IR` code if add the flag `-emit-llvm`
 
